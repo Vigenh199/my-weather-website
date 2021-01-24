@@ -1,8 +1,3 @@
-console.log("Logging from a client-side javascript");
-
-
-
-
 const weatherForm = document.querySelector('form');
 const searchInput = document.querySelector('input');
 
